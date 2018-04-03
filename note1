@@ -1,0 +1,55 @@
+#include <fstream>
+
+fndir="/storage"
+int main() {  
+  std::ofstream outfile;
+
+  outfile.open("test.txt", std::ios_base::app);
+  outfile << "Data"; 
+  return 0;
+}
+
+String intstoragedir = System.getenv("EXTERNAL_STORAGE");
+File intstoragedir = new File(extStore);
+
+SETTINGS
+
+imgdir
+
+checkmode
+checklastnotz
+checknotz
+checknote
+checkattachdir
+
+getclick1
+getclick2
+root screenshot to dir
+appendpic
+
+gettext
+getpic
+
+enable ocv
+enable numbered/lastplace
+enable latestdir/images.txt/
+
+mode=1
+last place
+mode=2
+ocv+lastplace
+mode=3
+lastdir+ocv+lastplace
+mode=4
+choosedir+lastplace
+mode=5
+mode=6
+
+Settings
+choose dir
+
+
+layout
+
+web
+http://dmoral.es/blog/accessing_native_methods_android
