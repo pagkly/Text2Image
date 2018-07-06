@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SST">
+        <item name="1">Normal</item>
+        <item name="2">Automatic-Area</item>
+        <item name="3">Automatic-Word</item>
+        <item name="4">Text</item>
+    </string-array>
+
+    <string-array name="SSTValues">
+        <item name="1">1</item>
+        <item name="2">2</item>
+        <item name="3">3</item>
+        <item name="4">4</item>
+    </string-array>
+</resources>
